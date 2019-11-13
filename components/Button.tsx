@@ -9,5 +9,5 @@ type Props = {
 }
 
 export default (props: Props) => (
-    <button onClick={() => console.log(giveMeFive())}>{props.buttonText}</button>
+    <button onClick={() => console.log(giveMeFive())}>{props.buttonText}!</button>
 )

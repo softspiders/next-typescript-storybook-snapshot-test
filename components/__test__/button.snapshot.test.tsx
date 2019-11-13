@@ -8,6 +8,3 @@ it('renders correctly', () => {
     const tree = TestRenderer.create(<Button buttonText="Some Text" />).toJSON()
     expect(tree).toMatchSnapshot()
 })
-
-
-//console.log(testRenderer.toJSON());
