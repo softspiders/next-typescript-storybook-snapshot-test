@@ -2,6 +2,14 @@
 
 Minimalistic NextJS in TypeScript with Storybook and Snapshot testing
 
+## Feature tags
+
+- next
+- storybook
+- storyshot,
+- template
+- ts
+
 ---
 
 ## Direct feature ancestors
