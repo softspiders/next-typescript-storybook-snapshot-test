@@ -1,4 +1,5 @@
-SOFTSPIDERS
+[SOFTSPIDERS](https://github.com/softspiders/softspiders)
+
 # next-typescript-storybook-snapshot-test
 
 Minimalistic NextJS in TypeScript with Storybook and Snapshot testing
